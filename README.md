@@ -1,1 +1,2 @@
 # whatever
+print(123)
